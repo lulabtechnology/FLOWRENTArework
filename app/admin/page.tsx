@@ -1,8 +1,9 @@
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
 
-export default function AdminPage() {
-  const cookieStore = cookies();
+export default async function AdminPage() {
+  // En Next 16 cookies() devuelve una Promesa, por eso usamos await
+  const cookieStore = await cookies();
   const token = cookieStore.get("admin_token");
 
   if (!token) {
