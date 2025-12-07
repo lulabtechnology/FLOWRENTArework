@@ -25,9 +25,8 @@ export default function RutasPage() {
             <p>
               A medio camino entre el pueblo y Boca del Drago encontrarás un
               letrero azul que indica el acceso a La Gruta. Desde ahí caminas
-              por una vereda hasta un pequeño santuario con la imagen de la
-              Virgen y, siguiendo el sendero junto al arroyo, llegas a la
-              entrada de la cueva. :contentReference[oaicite:6]{index=6}
+              por una vereda hasta un pequeño santuario y, siguiendo el sendero
+              junto al arroyo, llegas a la entrada de la cueva.
             </p>
             <p>
               El recorrido interno dura unos 30 minutos y se hace caminando por
@@ -49,11 +48,11 @@ export default function RutasPage() {
               Playa Bluff & Secret Beach
             </h2>
             <p>
-              Bluff es una playa larga de arena dorada, olas potentes y vegetacíon
-              salvaje. Es muy conocida por el surf de alto nivel y por su
-              ambiente más tranquilo que el pueblo. En el camino podrás ver
-              selva, quizá perezosos y monos aulladores, y al llegar tendrás
-              kilómetros de playa para caminar o descansar. :contentReference[oaicite:7]{index=7}
+              Bluff es una playa larga de arena dorada, olas potentes y
+              vegetación salvaje. Es muy conocida por el surf de alto nivel y
+              por su ambiente más tranquilo que el pueblo. En el camino podrás
+              ver selva, quizá perezosos y monos aulladores, y al llegar tendrás
+              kilómetros de playa para caminar o descansar.
             </p>
             <p>
               Antes de llegar a Bluff, en la zona de Paunch, hay una pequeña
@@ -93,11 +92,9 @@ export default function RutasPage() {
               Boca del Drago & Playa Estrella (Starfish Beach)
             </h2>
             <p>
-              Boca del Drago es una bahía tranquila de aguas claras donde,
-              según la leyenda, se refugiaban antiguos piratas. Hoy es un lugar
-              perfecto para pasar el día entre palmeras, nadar en mar casi sin
-              olas y comer pescado fresco en restaurantes sencillos frente al
-              agua. :contentReference[oaicite:8]{index=8}
+              Boca del Drago es una bahía tranquila de aguas claras, perfecta
+              para pasar el día entre palmeras, nadar casi sin olas y comer
+              pescado fresco en restaurantes sencillos frente al agua.
             </p>
             <p>
               Desde Drago, un sendero de unos 15 minutos entre manglares te
