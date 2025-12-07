@@ -122,7 +122,7 @@ export default function HomePage() {
                 Ruta corta en ebike o moto hasta una cueva atravesada por un
                 arroyo, con un pequeño santuario en la entrada. Ideal para
                 viajeros que quieren una aventura diferente, caminando con
-                linterna dentro de la cueva. :contentReference[oaicite:3]{index=3}
+                linterna dentro de la cueva.
               </p>
             </div>
           </article>
@@ -143,7 +143,7 @@ export default function HomePage() {
                 Una carretera costera rodeada de selva, olas fuertes para surf y
                 posibilidades de ver tortugas, perezosos y monos aulladores. En
                 el camino hay un spot escondido tipo piscina natural para
-                snorkel. :contentReference[oaicite:4]{index=4}
+                snorkel.
               </p>
             </div>
           </article>
@@ -163,7 +163,7 @@ export default function HomePage() {
               <p className="mt-2 text-sm text-slate-600">
                 Ruta perfecta para un día entero: bahía tranquila con historia
                 de piratas, caminata corta por manglar y playa de aguas
-                cristalinas con estrellas de mar gigantes. :contentReference[oaicite:5]{index=5}
+                cristalinas con estrellas de mar gigantes.
               </p>
             </div>
           </article>
